@@ -13,8 +13,7 @@
 12. Application of Stack (Notations)
 13.	Queue operations such as ENQUEUE, DEQUEUE and Display 
 14.	Tree Traversals (Inorder, Preorder, Postorder)
-15.	Linear Probing method
-16.	Insertion Sort 
-17.	Merge Sort
-18.	Quick Sort
-19.	Heap sort.
+15. Insertion Sort 
+16.	Merge Sort
+17.	Quick Sort
+18.	Heap sort.
