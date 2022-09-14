@@ -17,3 +17,4 @@
 16.	Merge Sort
 17.	Quick Sort
 18.	Heap sort.
+19. Linear Probing
