@@ -18,3 +18,7 @@
 17.	Quick Sort
 18.	Heap sort.
 19. Linear Probing
+20. AVL TREE( Insertion, Deletion, Display)
+21. Breadth First Search
+22. Depth First Search
+23. Dijkstra's Algorithm
