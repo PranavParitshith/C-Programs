@@ -22,3 +22,5 @@
 21. Breadth First Search
 22. Depth First Search
 23. Dijkstra's Algorithm
+24. Prim's Algorithm
+25. Kruskal's Algorithm
